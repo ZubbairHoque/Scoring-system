@@ -1,0 +1,9 @@
+# Scoring-system
+The project will be a program of a scoring system that will manage the scores of the players in each event of a tournament.
+-	Any participants of the competition can enter an individual or as a team.
+-	The program at least should be able to process 4 teams each with 5 members and there is also expected to be at least 20 spots for individual entries.
+-	There will 5 events to complete for.
+-	Some events will be individual based while others may be team events.
+-	The events will carry different themes.
+-	Depending on the different rank of team or individual in each event will determine how much they will be awarded.
+
